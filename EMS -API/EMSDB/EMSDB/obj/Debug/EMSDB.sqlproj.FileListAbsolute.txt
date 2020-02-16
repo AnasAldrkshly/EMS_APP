@@ -1,0 +1,10 @@
+C:\Users\asus\source\repos\EMSDB\EMSDB\bin\Debug\EMSDB.dacpac
+C:\Users\asus\source\repos\EMSDB\EMSDB\bin\Debug\EMSDB.dll
+C:\Users\asus\source\repos\EMSDB\EMSDB\bin\Debug\EMSDB.pdb
+C:\Users\asus\source\repos\EMSDB\EMSDB\obj\Debug\EMSDB.sqlprojAssemblyReference.cache
+C:\Users\asus\source\repos\EMSDB\EMSDB\obj\Debug\Model.xml
+C:\Users\asus\source\repos\EMSDB\EMSDB\obj\Debug\refactor.xml
+C:\Users\asus\source\repos\EMSDB\EMSDB\obj\Debug\postdeploy.sql
+C:\Users\asus\source\repos\EMSDB\EMSDB\obj\Debug\predeploy.sql
+C:\Users\asus\source\repos\EMSDB\EMSDB\obj\Debug\EMSDB.dll
+C:\Users\asus\source\repos\EMSDB\EMSDB\obj\Debug\EMSDB.pdb
